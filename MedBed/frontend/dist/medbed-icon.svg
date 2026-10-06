@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#0ea5e9"/>
+  <!-- Hospital Cross & Bed Icon -->
+  <path d="M24 10V26M16 18H32" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 36V30C10 28.8954 10.8954 28 12 28H36C37.1046 28 38 28.8954 38 30V36" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M8 38H40" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</svg>
