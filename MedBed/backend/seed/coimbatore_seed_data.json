@@ -1,0 +1,1206 @@
+{
+  "hospitals": [
+    {
+      "name": "Ganga Hospital",
+      "address": "333, Mettupalayam Road, Saibaba Colony, Coimbatore, Tamil Nadu 641043",
+      "phone": "+91-422-248-5000",
+      "email": "admin@gangahospital.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9502,
+          11.0285
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 85,
+          "total": 150
+        },
+        "acWard": {
+          "available": 40,
+          "total": 80
+        },
+        "private": {
+          "available": 20,
+          "total": 40
+        }
+      },
+      "operationTheatre": {
+        "available": 4,
+        "total": 14,
+        "occupied": 10
+      },
+      "emergencyWard": {
+        "available": 18,
+        "total": 30,
+        "occupied": 12
+      },
+      "image": "",
+      "rating": 4.9,
+      "specialties": [
+        "Orthopedics",
+        "Trauma & Spine Surgery",
+        "Plastic Surgery",
+        "Emergency Medicine",
+        "Reconstructive Microsurgery"
+      ],
+      "_id": "6ac4b2a59ab26f2014e4390f",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.892Z",
+      "updatedAt": "2026-10-06T08:34:45.892Z"
+    },
+    {
+      "name": "Kovai Medical Center and Hospital (KMCH)",
+      "address": "99, Avinashi Rd, Civil Aerodrome Post, Peelamedu, Coimbatore, Tamil Nadu 641014",
+      "phone": "+91-422-432-3800",
+      "email": "admin@kmch.in",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          77.0396,
+          11.0375
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 120,
+          "total": 280
+        },
+        "acWard": {
+          "available": 65,
+          "total": 140
+        },
+        "private": {
+          "available": 30,
+          "total": 70
+        }
+      },
+      "operationTheatre": {
+        "available": 6,
+        "total": 18,
+        "occupied": 12
+      },
+      "emergencyWard": {
+        "available": 22,
+        "total": 40,
+        "occupied": 18
+      },
+      "image": "",
+      "rating": 4.8,
+      "specialties": [
+        "Cardiology",
+        "Organ Transplant",
+        "Oncology",
+        "Neurology",
+        "Gastroenterology",
+        "Emergency Medicine"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43910",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "PSG Hospitals",
+      "address": "Peelamedu, Avinashi Road, Coimbatore, Tamil Nadu 641004",
+      "phone": "+91-422-257-0170",
+      "email": "admin@psghospitals.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          77.0042,
+          11.0264
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 140,
+          "total": 320
+        },
+        "acWard": {
+          "available": 50,
+          "total": 110
+        },
+        "private": {
+          "available": 25,
+          "total": 55
+        }
+      },
+      "operationTheatre": {
+        "available": 5,
+        "total": 16,
+        "occupied": 11
+      },
+      "emergencyWard": {
+        "available": 20,
+        "total": 35,
+        "occupied": 15
+      },
+      "image": "",
+      "rating": 4.7,
+      "specialties": [
+        "Cardiology",
+        "Neurology",
+        "Emergency Medicine",
+        "General Surgery",
+        "Pediatrics",
+        "Nephrology"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43911",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "Sri Ramakrishna Hospital",
+      "address": "395, Sarojini Naidu Rd, Sidhapudur, Coimbatore, Tamil Nadu 641044",
+      "phone": "+91-422-450-0000",
+      "email": "admin@sriramakrishnahospital.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9734,
+          11.0189
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 90,
+          "total": 220
+        },
+        "acWard": {
+          "available": 45,
+          "total": 95
+        },
+        "private": {
+          "available": 18,
+          "total": 45
+        }
+      },
+      "operationTheatre": {
+        "available": 3,
+        "total": 10,
+        "occupied": 7
+      },
+      "emergencyWard": {
+        "available": 14,
+        "total": 25,
+        "occupied": 11
+      },
+      "image": "",
+      "rating": 4.6,
+      "specialties": [
+        "Cardiology",
+        "Oncology",
+        "General Surgery",
+        "Urology",
+        "Orthopedics"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43912",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "G. Kuppuswamy Naidu Memorial Hospital (GKNM)",
+      "address": "Post Box No. 6327, P.N. Palayam, Coimbatore, Tamil Nadu 641037",
+      "phone": "+91-422-224-5000",
+      "email": "admin@gknmhospital.org",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9808,
+          11.0135
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 110,
+          "total": 260
+        },
+        "acWard": {
+          "available": 48,
+          "total": 100
+        },
+        "private": {
+          "available": 22,
+          "total": 50
+        }
+      },
+      "operationTheatre": {
+        "available": 4,
+        "total": 12,
+        "occupied": 8
+      },
+      "emergencyWard": {
+        "available": 16,
+        "total": 28,
+        "occupied": 12
+      },
+      "image": "",
+      "rating": 4.8,
+      "specialties": [
+        "Cardiology",
+        "Pediatrics",
+        "Obstetrics & Gynecology",
+        "Oncology",
+        "Cardiothoracic Surgery"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43913",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "Royal Care Super Speciality Hospital",
+      "address": "1/520, L&T Bypass Road, Neelambur, Coimbatore, Tamil Nadu 641062",
+      "phone": "+91-422-222-7000",
+      "email": "admin@royalcarehospital.in",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          77.0863,
+          11.0664
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 75,
+          "total": 180
+        },
+        "acWard": {
+          "available": 38,
+          "total": 80
+        },
+        "private": {
+          "available": 16,
+          "total": 35
+        }
+      },
+      "operationTheatre": {
+        "available": 3,
+        "total": 9,
+        "occupied": 6
+      },
+      "emergencyWard": {
+        "available": 12,
+        "total": 22,
+        "occupied": 10
+      },
+      "image": "",
+      "rating": 4.7,
+      "specialties": [
+        "Emergency Medicine",
+        "Interventional Cardiology",
+        "Nephrology",
+        "Critical Care",
+        "Pulmonology"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43914",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "Coimbatore Medical College Hospital (CMCH)",
+      "address": "Trichy Rd, Gopalapuram, Coimbatore, Tamil Nadu 641018",
+      "phone": "+91-422-230-1393",
+      "email": "admin@cmchcoimbatore.tn.gov.in",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9685,
+          10.9995
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 180,
+          "total": 450
+        },
+        "acWard": {
+          "available": 30,
+          "total": 60
+        },
+        "private": {
+          "available": 10,
+          "total": 20
+        }
+      },
+      "operationTheatre": {
+        "available": 5,
+        "total": 15,
+        "occupied": 10
+      },
+      "emergencyWard": {
+        "available": 25,
+        "total": 50,
+        "occupied": 25
+      },
+      "image": "",
+      "rating": 4.4,
+      "specialties": [
+        "Emergency Medicine",
+        "General Surgery",
+        "Internal Medicine",
+        "Trauma Care",
+        "Pediatrics"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43915",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "GEM Hospital & Research Centre",
+      "address": "45-A, Pankaja Mill Rd, Ramanathapuram, Coimbatore, Tamil Nadu 641045",
+      "phone": "+91-422-232-5100",
+      "email": "admin@gemhospital.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9936,
+          10.9967
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 50,
+          "total": 120
+        },
+        "acWard": {
+          "available": 28,
+          "total": 60
+        },
+        "private": {
+          "available": 15,
+          "total": 30
+        }
+      },
+      "operationTheatre": {
+        "available": 2,
+        "total": 8,
+        "occupied": 6
+      },
+      "emergencyWard": {
+        "available": 10,
+        "total": 18,
+        "occupied": 8
+      },
+      "image": "",
+      "rating": 4.8,
+      "specialties": [
+        "Gastroenterology",
+        "Laparoscopic Surgery",
+        "Liver Care",
+        "GI Oncology",
+        "Endoscopy"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43916",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "KG Hospital",
+      "address": "Govt Hospital Rd, Arts College, Gopalapuram, Coimbatore, Tamil Nadu 641018",
+      "phone": "+91-422-221-2121",
+      "email": "admin@kghospital.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9698,
+          11.0021
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 60,
+          "total": 140
+        },
+        "acWard": {
+          "available": 30,
+          "total": 65
+        },
+        "private": {
+          "available": 12,
+          "total": 28
+        }
+      },
+      "operationTheatre": {
+        "available": 2,
+        "total": 7,
+        "occupied": 5
+      },
+      "emergencyWard": {
+        "available": 9,
+        "total": 16,
+        "occupied": 7
+      },
+      "image": "",
+      "rating": 4.5,
+      "specialties": [
+        "Cardiology",
+        "Critical Care",
+        "Dialysis",
+        "Neurology",
+        "Accident & Trauma"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43917",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.893Z",
+      "updatedAt": "2026-10-06T08:34:45.893Z"
+    },
+    {
+      "name": "Lotus Eye Hospital and Institute",
+      "address": "770/12, Avinashi Rd, Civil Aerodrome Post, Peelamedu, Coimbatore, Tamil Nadu 641014",
+      "phone": "+91-422-422-9900",
+      "email": "admin@lotuseye.org",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          77.0267,
+          11.0312
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 35,
+          "total": 70
+        },
+        "acWard": {
+          "available": 18,
+          "total": 35
+        },
+        "private": {
+          "available": 8,
+          "total": 15
+        }
+      },
+      "operationTheatre": {
+        "available": 3,
+        "total": 6,
+        "occupied": 3
+      },
+      "emergencyWard": {
+        "available": 6,
+        "total": 10,
+        "occupied": 4
+      },
+      "image": "",
+      "rating": 4.6,
+      "specialties": [
+        "Ophthalmology",
+        "Cataract & Lasik",
+        "Cornea",
+        "Retina Care",
+        "Eye Trauma"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43918",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.894Z",
+      "updatedAt": "2026-10-06T08:34:45.894Z"
+    },
+    {
+      "name": "Rex Ortho Hospital",
+      "address": "43, Bharathi Park Rd, Saibaba Colony, Coimbatore, Tamil Nadu 641011",
+      "phone": "+91-422-244-4888",
+      "email": "admin@rexortho.com",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          76.9442,
+          11.0221
+        ]
+      },
+      "emergencyOpen": true,
+      "beds": {
+        "general": {
+          "available": 40,
+          "total": 85
+        },
+        "acWard": {
+          "available": 20,
+          "total": 45
+        },
+        "private": {
+          "available": 10,
+          "total": 20
+        }
+      },
+      "operationTheatre": {
+        "available": 2,
+        "total": 5,
+        "occupied": 3
+      },
+      "emergencyWard": {
+        "available": 8,
+        "total": 14,
+        "occupied": 6
+      },
+      "image": "",
+      "rating": 4.7,
+      "specialties": [
+        "Orthopedics",
+        "Joint Replacement",
+        "Arthroscopy",
+        "Sports Injury",
+        "Spine Care"
+      ],
+      "_id": "6ac4b2a59ab26f2014e43919",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.895Z",
+      "updatedAt": "2026-10-06T08:34:45.895Z"
+    },
+    {
+      "name": "Aravind Eye Hospital",
+      "address": "Avinashi Rd, Opp. to Jaganatha Perumal Kovil, Peelamedu, Coimbatore, Tamil Nadu 641014",
+      "phone": "+91-422-436-0400",
+      "email": "admin@aravind.org",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          77.0175,
+          11.0298
+        ]
+      },
+      "emergencyOpen": false,
+      "beds": {
+        "general": {
+          "available": 80,
+          "total": 160
+        },
+        "acWard": {
+          "available": 35,
+          "total": 70
+        },
+        "private": {
+          "available": 15,
+          "total": 30
+        }
+      },
+      "operationTheatre": {
+        "available": 4,
+        "total": 8,
+        "occupied": 4
+      },
+      "emergencyWard": {
+        "available": 10,
+        "total": 15,
+        "occupied": 5
+      },
+      "image": "",
+      "rating": 4.9,
+      "specialties": [
+        "Ophthalmology",
+        "Glaucoma",
+        "Pediatric Ophthalmology",
+        "Retina",
+        "Cornea"
+      ],
+      "_id": "6ac4b2a59ab26f2014e4391a",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.895Z",
+      "updatedAt": "2026-10-06T08:34:45.895Z"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. S. Rajasekaran",
+      "specialty": "Trauma & Spine Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-10001",
+      "qualification": "MS (Ortho), MCh, FRCS, PhD",
+      "experience": 30,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4391c",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. S. Raja Sabapathy",
+      "specialty": "Plastic Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-10002",
+      "qualification": "MS, MCh (Plastic), DNB, FRCS",
+      "experience": 28,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4391d",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. J. Dheenadhayalan",
+      "specialty": "Orthopedics",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "available": false,
+      "shiftStart": "04:00 PM",
+      "shiftEnd": "12:00 AM",
+      "phone": "+91-98422-10003",
+      "qualification": "MS (Ortho), DNB (Ortho)",
+      "experience": 22,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4391e",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Ajoy Prasad Shetty",
+      "specialty": "Spine Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "06:00 PM",
+      "phone": "+91-98422-10004",
+      "qualification": "MS (Ortho), DNB, Spine Fellowship",
+      "experience": 20,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4391f",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Harish K.",
+      "specialty": "Emergency Medicine",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "available": true,
+      "shiftStart": "07:00 AM",
+      "shiftEnd": "07:00 PM",
+      "phone": "+91-98422-10005",
+      "qualification": "MD (Emergency Medicine)",
+      "experience": 11,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43920",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Nalla G. Palaniswami",
+      "specialty": "Internal Medicine",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-20001",
+      "qualification": "MD, AB (USA), FACP",
+      "experience": 35,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43921",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Thomas Alexander",
+      "specialty": "Cardiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-20002",
+      "qualification": "MD, DM, FACC, FSCAI",
+      "experience": 26,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43922",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Mathew Cherian",
+      "specialty": "Interventional Radiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-20003",
+      "qualification": "MD, DMRD, DNB",
+      "experience": 24,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43923",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. K. Senthil Kumar",
+      "specialty": "Neurology",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "available": false,
+      "shiftStart": "06:00 PM",
+      "shiftEnd": "02:00 AM",
+      "phone": "+91-98422-20004",
+      "qualification": "MD, DM (Neurology)",
+      "experience": 16,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43924",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Archana Pillai",
+      "specialty": "Oncology",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "available": true,
+      "shiftStart": "10:00 AM",
+      "shiftEnd": "06:00 PM",
+      "phone": "+91-98422-20005",
+      "qualification": "MD (RT), DNB (Medical Oncology)",
+      "experience": 14,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43925",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. J.S. Bhuvaneswaran",
+      "specialty": "Cardiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43911",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-30001",
+      "qualification": "MD, DM (Cardio), FACC",
+      "experience": 25,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43926",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. T. Pavithran",
+      "specialty": "Emergency Medicine",
+      "hospitalId": "6ac4b2a59ab26f2014e43911",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "08:00 PM",
+      "phone": "+91-98422-30002",
+      "qualification": "MBBS, MD (Emergency)",
+      "experience": 12,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43927",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. S. Balaji",
+      "specialty": "Nephrology",
+      "hospitalId": "6ac4b2a59ab26f2014e43911",
+      "available": false,
+      "shiftStart": "02:00 PM",
+      "shiftEnd": "10:00 PM",
+      "phone": "+91-98422-30003",
+      "qualification": "MD, DM (Nephro)",
+      "experience": 15,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43928",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. R. Kannan",
+      "specialty": "General Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e43911",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-30004",
+      "qualification": "MS, DNB, FMAS",
+      "experience": 18,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43929",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. S. Manoharan",
+      "specialty": "Cardiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43912",
+      "available": true,
+      "shiftStart": "08:30 AM",
+      "shiftEnd": "04:30 PM",
+      "phone": "+91-98422-40001",
+      "qualification": "MD, DM (Cardiology)",
+      "experience": 21,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392a",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. P. Guhan",
+      "specialty": "Oncology",
+      "hospitalId": "6ac4b2a59ab26f2014e43912",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-40002",
+      "qualification": "MD, DNB (Medical Oncology)",
+      "experience": 23,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392b",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. V. Rajesh",
+      "specialty": "Urology",
+      "hospitalId": "6ac4b2a59ab26f2014e43912",
+      "available": false,
+      "shiftStart": "05:00 PM",
+      "shiftEnd": "01:00 AM",
+      "phone": "+91-98422-40003",
+      "qualification": "MS, MCh (Urology)",
+      "experience": 13,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392c",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Rajan Srinivasan",
+      "specialty": "Cardiothoracic Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e43913",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-50001",
+      "qualification": "MS, MCh (CTVS)",
+      "experience": 24,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392d",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Kalyani Menon",
+      "specialty": "Pediatrics",
+      "hospitalId": "6ac4b2a59ab26f2014e43913",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-50002",
+      "qualification": "MD (Pediatrics), DCH",
+      "experience": 17,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392e",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. Subhashini K.",
+      "specialty": "Obstetrics & Gynecology",
+      "hospitalId": "6ac4b2a59ab26f2014e43913",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-50003",
+      "qualification": "DGO, DNB (OG)",
+      "experience": 19,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4392f",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. K. Madeswaran",
+      "specialty": "Interventional Cardiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43914",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-60001",
+      "qualification": "MD, DM, FESC",
+      "experience": 27,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43930",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. V. Paranthaman",
+      "specialty": "Pulmonology",
+      "hospitalId": "6ac4b2a59ab26f2014e43914",
+      "available": false,
+      "shiftStart": "04:00 PM",
+      "shiftEnd": "12:00 AM",
+      "phone": "+91-98422-60002",
+      "qualification": "DTCD, MD (Pulmonology)",
+      "experience": 15,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43931",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. S. Selvakumar",
+      "specialty": "Emergency Medicine",
+      "hospitalId": "6ac4b2a59ab26f2014e43914",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "08:00 PM",
+      "phone": "+91-98422-60003",
+      "qualification": "MEM, MD (Emergency)",
+      "experience": 9,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43932",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. R. Soundararajan",
+      "specialty": "Emergency Medicine",
+      "hospitalId": "6ac4b2a59ab26f2014e43915",
+      "available": true,
+      "shiftStart": "07:00 AM",
+      "shiftEnd": "03:00 PM",
+      "phone": "+91-98422-70001",
+      "qualification": "MBBS, MD",
+      "experience": 16,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43933",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. M. Sasikumar",
+      "specialty": "General Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e43915",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-70002",
+      "qualification": "MS (General Surgery)",
+      "experience": 14,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43934",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.907Z",
+      "updatedAt": "2026-10-06T08:34:45.907Z"
+    },
+    {
+      "name": "Dr. C. Palanivelu",
+      "specialty": "Gastroenterology",
+      "hospitalId": "6ac4b2a59ab26f2014e43916",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-80001",
+      "qualification": "MS, MCh, FACS, FRCS",
+      "experience": 32,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43935",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. P. Senthilnathan",
+      "specialty": "Laparoscopic Surgery",
+      "hospitalId": "6ac4b2a59ab26f2014e43916",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "04:00 PM",
+      "phone": "+91-98422-80002",
+      "qualification": "MS, DNB, FMAS",
+      "experience": 18,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43936",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. G. Bakthavathsalam",
+      "specialty": "Cardiology",
+      "hospitalId": "6ac4b2a59ab26f2014e43917",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-90001",
+      "qualification": "MS, FICS, FCCP, FAMS",
+      "experience": 38,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43937",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. R. Murugan",
+      "specialty": "Critical Care",
+      "hospitalId": "6ac4b2a59ab26f2014e43917",
+      "available": true,
+      "shiftStart": "08:00 AM",
+      "shiftEnd": "08:00 PM",
+      "phone": "+91-98422-90002",
+      "qualification": "MD (Anesthesia), IDCCM",
+      "experience": 11,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43938",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. S.K. Sundaramoorthy",
+      "specialty": "Ophthalmology",
+      "hospitalId": "6ac4b2a59ab26f2014e43918",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-91001",
+      "qualification": "DO, DNB, FRCS (Edin)",
+      "experience": 29,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e43939",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. C. Rex",
+      "specialty": "Orthopedics",
+      "hospitalId": "6ac4b2a59ab26f2014e43919",
+      "available": true,
+      "shiftStart": "09:00 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-92001",
+      "qualification": "MS (Ortho), MCh, FRCS (Tr & Orth)",
+      "experience": 25,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4393a",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    },
+    {
+      "name": "Dr. V. Narendran",
+      "specialty": "Ophthalmology",
+      "hospitalId": "6ac4b2a59ab26f2014e4391a",
+      "available": false,
+      "shiftStart": "08:30 AM",
+      "shiftEnd": "05:00 PM",
+      "phone": "+91-98422-93001",
+      "qualification": "DO, DNB, Retina Specialist",
+      "experience": 26,
+      "avatar": "",
+      "_id": "6ac4b2a59ab26f2014e4393b",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:45.908Z",
+      "updatedAt": "2026-10-06T08:34:45.908Z"
+    }
+  ],
+  "users": [
+    {
+      "name": "Karthik (Citizen / Patient)",
+      "email": "karthik@medbed.com",
+      "password": "hashed",
+      "role": "user",
+      "hospitalId": null,
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e4393d",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    },
+    {
+      "name": "Senthil (108 Ambulance Dispatcher)",
+      "email": "driver@medbed.com",
+      "password": "hashed",
+      "role": "ambulance",
+      "hospitalId": null,
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e4393e",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    },
+    {
+      "name": "Ganga Hospital Admin",
+      "email": "ganga@medbed.com",
+      "password": "hashed",
+      "role": "hospital",
+      "hospitalId": "6ac4b2a59ab26f2014e4390f",
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e4393f",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    },
+    {
+      "name": "KMCH Admin",
+      "email": "kmch@medbed.com",
+      "password": "hashed",
+      "role": "hospital",
+      "hospitalId": "6ac4b2a59ab26f2014e43910",
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e43940",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    },
+    {
+      "name": "PSG Hospitals Admin",
+      "email": "psg@medbed.com",
+      "password": "hashed",
+      "role": "hospital",
+      "hospitalId": "6ac4b2a59ab26f2014e43911",
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e43941",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    },
+    {
+      "name": "Sri Ramakrishna Admin",
+      "email": "ramakrishna@medbed.com",
+      "password": "hashed",
+      "role": "hospital",
+      "hospitalId": "6ac4b2a59ab26f2014e43912",
+      "avatar": "",
+      "_id": "6ac4b2a69ab26f2014e43942",
+      "__v": 0,
+      "createdAt": "2026-10-06T08:34:46.225Z",
+      "updatedAt": "2026-10-06T08:34:46.225Z"
+    }
+  ]
+}
