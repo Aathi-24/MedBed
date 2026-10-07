@@ -12,6 +12,8 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:3000',
+    'https://medbed-tracker.web.app',
+    'https://medbed-tracker.firebaseapp.com',
     'https://medbed-9e698.web.app',
     'https://medbed-9e698.firebaseapp.com',
     process.env.CLIENT_URL
